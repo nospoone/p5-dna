@@ -1,0 +1,7 @@
+{
+	"name": "p5-dna",
+	"version": "0.0.0",
+	"dependencies": {
+		"p5": "^0.5.5"
+	}
+}
